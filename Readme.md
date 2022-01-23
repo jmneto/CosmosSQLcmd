@@ -55,10 +55,10 @@ Query Completed. Press any key to return to the editor
 # Screenshots
 
 ## Editor Mode
-![Editor Screenshot](\Screenshots\ScreenshotEditorMode.png "Editor Mode Screenshot")
+![Editor Screenshot](https://github.com/jmneto/CosmosSQLcmd/blob/master/Screenshots/ScreenshotEditorMode.png "Editor Mode Screenshot")
 
 ## Query Results
-![Query Results Screenshot](\Screenshots\ScreenshotResults.png "Query Results Screenshot")
+![Query Results Screenshot](https://github.com/jmneto/CosmosSQLcmd/blob/master/Screenshots/ScreenshotResults.png "Query Results Screenshot")
 
 ## Screenshot
-![Screenshot](\Screenshots\Screenshot.png "Screenshot")
+![Screenshot](https://github.com/jmneto/CosmosSQLcmd/blob/master/Screenshots/Screenshot.png "Screenshot")
