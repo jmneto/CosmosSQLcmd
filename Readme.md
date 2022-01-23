@@ -2,7 +2,7 @@
 
 ## Azure Cosmos DB SQL Command Line Client Tool
 
-This utility is a lightweight Command-Line Client for Aure Cosmos DB. It has a versatile editor for editing and executing queries directly from a Console Window! 
+This utility is a lightweight Command-Line Client for Aure Cosmos DB Core(SQL) API. It has a versatile editor for editing and executing queries directly from a Console Window! 
 
 ## Usage
 
